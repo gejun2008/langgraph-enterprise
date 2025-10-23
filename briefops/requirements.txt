@@ -1,0 +1,7 @@
+transformers>=4.44.0
+duckduckgo-search>=6.1.0
+langgraph>=0.1.0
+requests>=2.31.0
+accelerate>=0.33.0
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
